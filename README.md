@@ -1,3 +1,11 @@
+This is a fork from the Volumio 2 project. Distributed under the GNU General Public license ver. 3. Volumio is also a registered trademark of INTUITU di Michelangelo Guarise. 
+
+The Retro Audiophile Designs distribution is based on this fork's source code available here. It represents the Volumio 2 version 2.361.
+
+The information below is from the Volumio 2 project:
+
+
+
 [![Join the chat at https://gitter.im/volumio/Volumio2-UI](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/volumio/Volumio2-UI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/volumio/Volumio2-UI.svg?branch=master)](https://travis-ci.org/volumio/Volumio2-UI)
 [![devDependency Status](https://david-dm.org/volumio/Volumio2-UI/dev-status.svg)](https://david-dm.org/volumio/Volumio2-UI#info=devDependencies)
